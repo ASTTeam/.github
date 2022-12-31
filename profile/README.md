@@ -1,3 +1,3 @@
 ## Hey, this is us 👋
 
-Focus on DevSecOps.
+I love code because code has bugs.
